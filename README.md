@@ -1,4 +1,5 @@
 # Rafaela Krann
+![Rafaela's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelakrann&show_icons=true&theme=dracula)
 
 ## 👋 Introdução
 Analista de BI com background em Saúde, combinando mestrado em Saúde Coletiva com formação em Sistemas de Informação. Minha experiência única une análise de dados com conhecimento prático no setor de saúde, permitindo traduzir dados complexos em insights estratégicos. Especializada na construção de dashboards e otimização de processos baseados em evidências.

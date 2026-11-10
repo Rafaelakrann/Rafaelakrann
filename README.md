@@ -1,44 +1,51 @@
 # Rafaela Krann
+
+**Analista de Dados e BI | Indicadores e qualidade de dados em saúde**
+
+Trabalho há 10 anos no setor de saúde transformando dados em decisões: desenvolvo indicadores e dashboards, audito a qualidade de bases e lidero equipes. Hoje supervisiono um serviço de diagnóstico por imagem com 80 profissionais, onde acompanho KPIs de produtividade, qualidade e SLA e participo de provas de conceito com IA. Sou graduanda em Sistemas de Informação e mestre em Saúde Coletiva.
+
 ![Rafaela's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelakrann&show_icons=true&theme=dracula)
 
-## 👋 Introdução
-Analista de BI com background em Saúde, combinando mestrado em Saúde Coletiva com formação em Sistemas de Informação. Minha experiência única une análise de dados com conhecimento prático no setor de saúde, permitindo traduzir dados complexos em insights estratégicos. Especializada na construção de dashboards e otimização de processos baseados em evidências.
+## 🚀 Projeto em destaque
 
-## 🛠️ Habilidades e Tecnologias
-- **Linguagens de Programação:** Python, Java, SQL
-- **Ferramentas de BI:** Power BI, Excel Avançado
-- **Gestão de Dados:** Análise de indicadores, ETL, Modelagem de dados
-- **Metodologias:** Gestão por processos, Melhoria contínua
-- **Idiomas:** Português (Nativo), Inglês (Fluente), Espanhol (Intermediário)
+### [Acesso à tomografia no SUS em Santa Catarina](https://github.com/Rafaelakrann/tomografia-sus-sc)
 
-## 🚀 Projetos em Destaque
-- **Dashboard de Indicadores Hospitalares** - Sistema de monitoramento de KPIs para melhoria da qualidade hospitalar
-- **Sistema de Gestão Documental** - Implementação de solução para otimização de processos administrativos
-- **Painel de Monitoramento COVID-19** - Dashboard para acompanhamento de pacientes durante a pandemia
-- **Sistema de Estratificação de Risco** - Ferramenta para identificação precoce de pacientes crônicos de alto risco
+Pipeline em Python que extrai dados públicos do DATASUS (SIA e CNES) e do IBGE, audita a consistência entre as bases e calcula indicadores de acesso e oferta de tomografia para as 17 regiões de saúde de SC.
 
-## 🏆 Formação e Certificações
-- **Sistemas de Informação** - Unisinos (Em andamento)
-- **Mestrado em Saúde Coletiva** - UFSC (2022)
-- **Residência Multiprofissional** - GHC (2016) 
-- **Enfermagem** - UFPel (2016)
-- **Certificações:**
-  - Django Master - Pycode (Em andamento)
-  - Python - Entra21 (Em andamento)
-  - Desenvolvedor Back-End JAVA - Entra21 (2024)
-  - Análise de dados - Hashtag Treinamentos (2025)
-  - Data Analytics - CoderHouse (2022)
+- 486 mil tomografias SUS analisadas em 2024, com diferença de quase 4 vezes no acesso entre regiões
+- Auditoria de qualidade de dados que identificou falhas de cadastro no CNES, como 9,8% da produção SUS registrada em estabelecimentos sem tomógrafo cadastrado
+- **Ferramentas:** Python, pandas, matplotlib, FTP do DATASUS, API SIDRA do IBGE
 
-## 🌐 Experiência Internacional
-- **Lehmann College (Nova York)** - Graduação Sanduíche (2013-2014)
-  - Desenvolvimento de habilidades interculturais e fluência em inglês
+## 🛠️ Habilidades
+
+- **Dados:** Python (pandas), SQL, Power BI, Excel e Google Sheets
+- **Análise:** definição de KPIs, dashboards, ETL, qualidade e governança de dados
+- **Programação:** Java (orientação a objetos)
+- **Gestão:** liderança de equipes, condução de projetos, gestão por indicadores, acreditação ONA
+
+## 💼 Experiência com dados na saúde
+
+- Dashboards de indicadores de qualidade e de SLA para serviço de diagnóstico por imagem
+- Painel de monitoramento de pacientes com COVID-19
+- Painel de estratificação de risco de pacientes crônicos
+- Implantação de gestão documental para acreditação ONA Nível 3
+
+## 📚 Outros projetos
+
+- [Gerenciador de Lojas de um Shopping Center](https://github.com/Rafaelakrann/Gerenciador-de-Lojas-de-um-Shopping-center) (Java)
+- [Simulador de Trem](https://github.com/Rafaelakrann/Simulador-de-trem) (Java)
+
+## 🏆 Formação
+
+- Bacharelado em Sistemas de Informação | Unisinos | conclusão prevista em agosto de 2027
+- Mestrado em Saúde Coletiva | UFSC | 2022
+- Residência Multiprofissional | Grupo Hospitalar Conceição | 2016
+- Enfermagem | UFPel | 2016, com graduação sanduíche no Lehman College, Nova York (2013 – 2014)
+
+**Cursos:** Análise de Dados (Hashtag Treinamentos, 2025) · Desenvolvedor Back-End Java (Entra21, 2024) · Data Analytics (CoderHouse, 2022) · Python (Entra21, em andamento) · Django Master (Pycode, em andamento)
+
+**Idiomas:** Português nativo · Inglês fluente · Espanhol intermediário
 
 ## 📫 Contato
-- **Email:** rafaelakrann@yahoo.com.br
-- **LinkedIn:** [linkedin.com/in/rafaela-krann](https://www.linkedin.com/in/rafaela-krann)
-- **Telefone:** (55) 999060589
-- **Localização:** São José/SC, Brasil
 
----
-
-💡 *"Transformando dados em saúde através da tecnologia"*
+[LinkedIn](https://www.linkedin.com/in/rafaela-krann) · [rafaelakrann@yahoo.com.br](mailto:rafaelakrann@yahoo.com.br) · São José/SC

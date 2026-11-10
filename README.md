@@ -4,7 +4,6 @@
 
 Trabalho há 10 anos no setor de saúde transformando dados em decisões: desenvolvo indicadores e dashboards, audito a qualidade de bases e lidero equipes. Hoje supervisiono um serviço de diagnóstico por imagem com 80 profissionais, onde acompanho KPIs de produtividade, qualidade e SLA e participo de provas de conceito com IA. Sou graduanda em Sistemas de Informação e mestre em Saúde Coletiva.
 
-![Rafaela's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelakrann&show_icons=true&theme=dracula)
 
 ## 🚀 Projeto em destaque
 
